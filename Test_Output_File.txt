@@ -1,0 +1,6 @@
+This is my test file
+it has some
+blank lines in
+it.
+This is an exciting program
+that can clean my text files up.
